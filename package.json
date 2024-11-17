@@ -12,6 +12,6 @@
   "dependencies": {
     "dotenv": "^16.4.5",
     "express": "^4.21.1",
-    "tic_tac_toe": "file:../rust/pkg"
+    "tic_tac_toe": "file:wasm"
   }
 }
