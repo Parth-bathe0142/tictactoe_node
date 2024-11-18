@@ -1,7 +1,6 @@
 const express = require("express")
 const path = require("path")
 
-dotenv.config({ path: "../." })
 const port = 4000;
 const app = express()
 
